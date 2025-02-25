@@ -1,4 +1,4 @@
-![Alessandro LAMPARELLI ✌️]([https://lh3.googleusercontent.com/pw/AP1GczMG_HQpzpK4e60t0fVxVRmXBKIIPNlJfktm-SBoY4ZdcfylmhcnQP6sOiRiGaKWe3PVOwko8HCjGLKjH9kK2pdwgN9iTdGG4DEcWtESS3YAmNuO0fEW2mJQJaV4TF2p4yw9acpSBQntRhbTSGsjz0Nhig=w1462-h400-s-no](https://photos.fife.usercontent.google.com/pw/AP1GczNY-5HiyAW3zSNo6PENeuI6Ohiio2PCfXibynE6vuMARhsttgI9r9Y=w932-h200-s-no?authuser=0))
+![Alessandro LAMPARELLI ✌️](https://photos.fife.usercontent.google.com/pw/AP1GczNY-5HiyAW3zSNo6PENeuI6Ohiio2PCfXibynE6vuMARhsttgI9r9Y=w932-h200-s-no?authuser=0)
 
 ![Profile views](https://komarev.com/ghpvc/?username=alamparelli&label=Profile%20views&color=0e75b6&style=flat)
 
