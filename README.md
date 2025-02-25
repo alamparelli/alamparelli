@@ -21,7 +21,7 @@
 
 - 💼 I'm currently working on: **Build my 100 projects for my portfolio**
 - 🌱 I'm currently learning: **📚 Building JS foundations**
-- ⚡ Fun fact: **🎢 Find idea when sleeping!**
+- ⚡ Fun fact: **🎢 Find idea while sleeping!**
 - 📂 Portfolio: **<a href="lamparelli.eu" target="_blank">lamparelli.eu</a>**
 
  **<h3 align="left">Skills</h3>**
