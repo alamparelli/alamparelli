@@ -1,4 +1,4 @@
-![Alessandro LAMPARELLI ✌️](https://photos.fife.usercontent.google.com/pw/AP1GczNY-5HiyAW3zSNo6PENeuI6Ohiio2PCfXibynE6vuMARhsttgI9r9Y=w932-h200-s-no)
+![Alessandro LAMPARELLI ✌️](https://photos.google.com/share/AF1QipMNQe98DIk1pR8z4vEHaN9rn4F9G22dJR4ARq1IAK0mXOYYBgLG1KqQ8udm0NxqJA/photo/AF1QipPR5VcCdJYk601YEvCv52AgVCymFG2gb3ffRAHQ?key=QzZ1Y19Nb1E1UlpTekRjYjFMTkJSRDFSdzNSYjN3)
 
 ![Profile views](https://komarev.com/ghpvc/?username=alamparelli&label=Profile%20views&color=0e75b6&style=flat)
 
