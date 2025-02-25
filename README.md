@@ -1,4 +1,4 @@
-![Alessandro LAMPARELLI ✌️](https://photos.fife.usercontent.google.com/pw/AP1GczNY-5HiyAW3zSNo6PENeuI6Ohiio2PCfXibynE6vuMARhsttgI9r9Y=w932-h200-s-no?authuser=0)
+![Alessandro LAMPARELLI ✌️](https://photos.fife.usercontent.google.com/pw/AP1GczNY-5HiyAW3zSNo6PENeuI6Ohiio2PCfXibynE6vuMARhsttgI9r9Y=w932-h200-s-no)
 
 ![Profile views](https://komarev.com/ghpvc/?username=alamparelli&label=Profile%20views&color=0e75b6&style=flat)
 
