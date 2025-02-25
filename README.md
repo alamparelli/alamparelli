@@ -1,4 +1,4 @@
-![Alessandro LAMPARELLI ✌️](https://photos.google.com/share/AF1QipMNQe98DIk1pR8z4vEHaN9rn4F9G22dJR4ARq1IAK0mXOYYBgLG1KqQ8udm0NxqJA/photo/AF1QipPR5VcCdJYk601YEvCv52AgVCymFG2gb3ffRAHQ?key=QzZ1Y19Nb1E1UlpTekRjYjFMTkJSRDFSdzNSYjN3)
+![Alessandro LAMPARELLI ✌️](github-header-image.png)
 
 ![Profile views](https://komarev.com/ghpvc/?username=alamparelli&label=Profile%20views&color=0e75b6&style=flat)
 
