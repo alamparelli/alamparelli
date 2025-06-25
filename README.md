@@ -19,8 +19,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **Build my 100 projects for my portfolio**
-- 🌱 I'm currently learning: **📚 Building JS foundations**
+- 💼 I'm currently working & Learning on: **Avoid Vibe Coding and build strong Foundation as iOS Developper**
 - ⚡ Fun fact: **🎢 Find idea while sleeping!**
 - 📂 Portfolio & Blog: **<a href="lamparelli.eu" target="_blank">lamparelli.eu</a>**
 
