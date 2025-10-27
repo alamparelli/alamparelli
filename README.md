@@ -1,42 +1,149 @@
-![Alessandro LAMPARELLI ✌️](github-header-image.png)
+<div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=alamparelli&label=Profile%20views&color=0e75b6&style=flat)
+# 👋 Welcome!
 
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        Alessandro LAMPARELLI ✌️
-      </h1>
-    </summary>
-  </ul>
+### Hi, I'm Alessandro. Nice to meet you!
+
 </div>
 
-**<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://github.com/alamparelli" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/lamparellia" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/@a_lamparelli" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.instagram.com/xander.lamp" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+---
 
- **<h3 align="left">With a background as an independent IT consultant specializing in management, I have always thrived on tackling complex problems and providing solutions that drive efficiency. Recognizing the growing potential in the world of development, I am now fully committed to becoming a full-stack JavaScript developer. This new path not only aligns with my entrepreneurial spirit but also offers the opportunity to craft innovative solutions directly from code.</h3>**
+## 🚀 About Me
 
-**<h3 align="left">Rapid Fire</h3>**
+With a background as an independent IT consultant specialising in management, I've always enjoyed tackling complex challenges and delivering solutions that drive efficiency. But my curiosity and passion for continuous learning have led me to an exciting crossroads in my career. Seeing the growing potential in development, I've committed to becoming a developper. This new path perfectly aligns with my entrepreneurial mindset and gives me the opportunity to build innovative solutions directly from code.
 
-- 💼 I'm currently working & Learning on: **Avoid Vibe Coding and build strong Foundation as iOS Developper**
-- ⚡ Fun fact: **🎢 Find idea while sleeping!**
-- 📂 Portfolio & Blog: **<a href="lamparelli.eu" target="_blank">lamparelli.eu</a>**
+Right now, I'm fully immersed in the rewarding yet demanding process of reinventing my career. As I strengthen my technical skills, I'm also envisioning how these capabilities will allow me to grow my freelance business or create unique solutions for future clients. It's a journey that requires dedication and resilience, but one that promises to blend my technical expertise with entrepreneurial ambitions setting the stage for a dynamic and exciting future.
 
- **<h3 align="left">Skills</h3>**
+### 💡 A Path That Feels a Lot Like Indie Hacking
 
-<p align="left"><img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="28" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="28" alt="React" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="28" alt="Node.js" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="28" alt="Tailwind CSS" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="28" alt="Express" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="28" alt="MongoDB" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" height="28" alt="Bootstrap" style="margin-right: 4px"> <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" height="28" alt="SQLite" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="28" alt="Docker" style="margin-right: 4px"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" height="28" alt="GitHub Actions" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white" height="28" alt="Visual Studio Code" style="margin-right: 4px"></p>
+The path I'm currently following is starting to look more and more like that of an indie hacker—building useful software, sharing it with users, and seeing where it might lead. Only time will tell if this adventure pays off.
+For now, the focus is on learning, experimenting, and growing through code. Each line written and every feature built is another step in this exploration, guided as much by curiosity as by the desire to create meaningful solutions.
 
- **<h3 align="left">GitHub Stats</h3>**
+---
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alamparelli&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-</p>
+## 🛠️ Skills
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=alamparelli&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
-</p>
+<table>
+<tr>
+<td valign="top" width="50%">
 
- **<h3 align="left">Support Me</h3>**
+### Professional Skills
+- 🎯 Self-taught learner
+- 📈 Growth mindset
+- 🤝 Teamwork
+- 💼 IT management
+- 🧩 Problem solving & analysis
+- 🏃 Autonomous
 
-<p align="left"><a href="https://paypal.me/alamparelli" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=flat&logo=paypal&logoColor=white" height="36" style="margin-right: 4px"></a></p>
+</td>
+<td valign="top" width="50%">
+
+### Technical Skills
+#### Development 
+##### Active
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=flat&logo=swift&logoColor=white) 
+##### Knowledges
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black) 
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+#### Tools & Platforms
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+
+#### Creative Development (as Hobbyst)
+![PICO-8](https://img.shields.io/badge/PICO--8-FF004D?style=flat&logo=pico-8&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+<a name="portfolio"></a>
+## iOS Portfolio
+<img width="1920" height="1080" alt="Portfolio Banner" src="https://github.com/user-attachments/assets/5698bc58-b14e-431d-b7b5-73efc6330418" />
+
+### ContactHive 
+  - **WIP**
+  Year: 2025
+  
+### Portfolio Apps
+- [FidelityCard](https://github.com/alamparelli/FidelityCard) is an iOS loyalty card digitization app that replaces paper punch cards for small businesses in under 10 seconds per transaction. Built with SwiftUI and connected to LocalCard's existing API, it allows customers to add merchant loyalty cards via QR code or search, collect digital stamps (1-5 per transaction), and track their progress toward rewards. The app features merchant-branded card designs, dual validation methods (QR code generation and 6-digit PIN), automatic card renewal upon completion, and a simple local history of visits and earned rewards. Designed for a 25-65 age demographic with banking app-level simplicity, it focuses on rapid in-store usage with minimal animations, large touch targets, and clear visual feedback—replacing lost paper cards with a reliable digital wallet that merchants and customers already understand.
+- 
+  <img width="3733" height="1434" alt="FidelityCard Screenshots" src="https://github.com/user-attachments/assets/a933c0a4-61a0-44e2-b5a9-a2f19d879854" />
+  Year: 2025
+
+- [MeteoApp](https://github.com/alamparelli/MeteoApp) is an iOS weather app that answers "How should I dress today?" in under 3 seconds. Built with SwiftUI and Weather API integration, it delivers current conditions and a 24-hour hourly forecast through a distraction-free interface. The app features a minimalist design, city search with autocomplete, and essential settings (°C/°F units, day/night dynamic or manual light/dark theme). Designed to cut through the clutter of overloaded weather apps, it focuses on immediate weather consultation with smooth animations, proper loading states, and clear error handling—no ads, no excessive data, just the forecast you need right now.
+  
+  <img width="3710" height="1403" alt="MeteoApp Screenshots" src="https://github.com/user-attachments/assets/a84a1453-614a-4592-a32d-dfb35c3e0592" />
+  Year: 2025
+
+- [QuizzGame](https://github.com/alamparelli/QuizGame) is an iOS quiz app that helps trainers create engaging assessments in minutes. Built with SwiftUI and a fully offline local database, it delivers randomized multiple-choice questions with automatic scoring and instant results. The app features a modern interface with energetic orange (#FF6B35) and navy blue (#2E3A59) branding, minimal configuration options (question count, theme, sound), and a top scores leaderboard to boost engagement. Designed for quick device handoff between trainer and learners, it prioritizes speed and simplicity.
+  
+  <img width="3081" height="1377" alt="QuizzGame Screenshots - iPhone 17 Pro - 2025-10-27 at 14 22 13" src="https://github.com/user-attachments/assets/79b22080-f79b-4d7e-b545-de0cb12215dd" />
+  Year: 2025
+
+- [MyBookShelf](https://github.com/alamparelli/MyBookShelf)  is an iOS library management app that helps readers organize their personal book collection simply. Built with SwiftUI and SwiftData, it integrates the Google Books API for easy book addition, offers visual progress tracking through charts, and sends smart reading reminders. The app feature customizable sorting, and a clean design that prioritizes user experience over complexity—demonstrating a complete development cycle from specifications to TestFlight deployment.
+  
+  <img width="3684" height="1377" alt="MyBookShelf Screenshots" src="https://github.com/user-attachments/assets/dfcab72c-77f2-41eb-b962-e57496872a5c" />
+  Year: 2025
+  
+### LearningApps
+  These are small projects created during my learning journey of 100 Days with SwiftUI by Paul Houdson
+
+  <img width="4339" height="2740" alt="Projects from 100 Days of SwiftUI" src="https://github.com/user-attachments/assets/70fc4ba8-f03b-4416-a44e-e34d645702f9" />
+  Year: 2025
+
+
+## 🎨 Hobbies & Interests
+
+- 🤖 **Context engineering** - Crafting better AI interactions
+- 💻 **Vibe coding** - Coding with flow and creativity
+- 🎮 **Video game maker** - Building interactive experiences
+- 📚 **Reading** - Sci-Fi & non-fiction books
+- 🚴 **Sports enthusiast** - Cycling, running & swimming
+- ✏️ **Drawing** - A bit of artistic exploration
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=alamparelli&theme=react&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&line_height=23&border_radius=8" alt="GitHub Stats" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=alamparelli&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400&border_radius=8" alt="Top Languages" />
+
+</div>
+
+---
+
+## 💖 Support My Journey
+
+If you find my work valuable and want to support my indie hacking journey, consider buying me a coffee! ☕
+
+<div align="center">
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/alamparelli)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 Thanks for visiting! Feel free to explore my repositories and reach out if you'd like to collaborate with me for a professional projet that cares for you. 
+
+</div>
