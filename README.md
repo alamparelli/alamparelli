@@ -76,11 +76,14 @@ For now, the focus is on learning, experimenting, and growing through code. Each
 <img width="1920" height="1080" alt="Portfolio Banner" src="https://github.com/user-attachments/assets/5698bc58-b14e-431d-b7b5-73efc6330418" />
 
 ### ContactHive 
-
-Year: 2025
+  - **WIP**
+  Year: 2025
+  
 ### Portfolio Apps
-#### [FidelityCard](https://github.com/alamparelli/FidelityCard)
-Year: 2025
+- [FidelityCard](https://github.com/alamparelli/FidelityCard) is an iOS loyalty card digitization app that replaces paper punch cards for small businesses in under 10 seconds per transaction. Built with SwiftUI and connected to LocalCard's existing API, it allows customers to add merchant loyalty cards via QR code or search, collect digital stamps (1-5 per transaction), and track their progress toward rewards. The app features merchant-branded card designs, dual validation methods (QR code generation and 6-digit PIN), automatic card renewal upon completion, and a simple local history of visits and earned rewards. Designed for a 25-65 age demographic with banking app-level simplicity, it focuses on rapid in-store usage with minimal animations, large touch targets, and clear visual feedback—replacing lost paper cards with a reliable digital wallet that merchants and customers already understand.
+- 
+  <img width="3733" height="1434" alt="FidelityCard Screenshots" src="https://github.com/user-attachments/assets/a933c0a4-61a0-44e2-b5a9-a2f19d879854" />
+  Year: 2025
 
 - [MeteoApp](https://github.com/alamparelli/MeteoApp) is an iOS weather app that answers "How should I dress today?" in under 3 seconds. Built with SwiftUI and Weather API integration, it delivers current conditions and a 24-hour hourly forecast through a distraction-free interface. The app features a minimalist design, city search with autocomplete, and essential settings (°C/°F units, day/night dynamic or manual light/dark theme). Designed to cut through the clutter of overloaded weather apps, it focuses on immediate weather consultation with smooth animations, proper loading states, and clear error handling—no ads, no excessive data, just the forecast you need right now.
   
@@ -96,13 +99,12 @@ Year: 2025
   
   <img width="3684" height="1377" alt="MyBookShelf Screenshots" src="https://github.com/user-attachments/assets/dfcab72c-77f2-41eb-b962-e57496872a5c" />
   Year: 2025
-
-
-
-
+  
 ### LearningApps
+  These are small projects created during my learning journey of 100 Days with SwiftUI by Paul Houdson
 
-Year: 2025
+  <img width="4339" height="2740" alt="Projects from 100 Days of SwiftUI" src="https://github.com/user-attachments/assets/70fc4ba8-f03b-4416-a44e-e34d645702f9" />
+  Year: 2025
 
 
 ## 🎨 Hobbies & Interests
