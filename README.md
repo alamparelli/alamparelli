@@ -101,10 +101,9 @@ For now, the focus is on learning, experimenting, and growing through code. Each
   Year: 2025
   
 ### LearningApps
-  These are small projects created during my learning journey of 100 Days with SwiftUI by Paul Houdson
-
-  <img width="4339" height="2740" alt="Projects from 100 Days of SwiftUI" src="https://github.com/user-attachments/assets/70fc4ba8-f03b-4416-a44e-e34d645702f9" />
-  Year: 2025
+  - These are small projects created during my learning journey of 100 Days with SwiftUI by Paul Houdson
+    <img width="4339" height="2740" alt="Projects from 100 Days of SwiftUI" src="https://github.com/user-attachments/assets/70fc4ba8-f03b-4416-a44e-e34d645702f9" />
+    Year: 2025
 
 
 ## 🎨 Hobbies & Interests
