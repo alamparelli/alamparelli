@@ -81,7 +81,7 @@ For now, the focus is on learning, experimenting, and growing through code. Each
   
 ### Portfolio Apps
 - [FidelityCard](https://github.com/alamparelli/FidelityCard) is an iOS loyalty card digitization app that replaces paper punch cards for small businesses in under 10 seconds per transaction. Built with SwiftUI and connected to LocalCard's existing API, it allows customers to add merchant loyalty cards via QR code or search, collect digital stamps (1-5 per transaction), and track their progress toward rewards. The app features merchant-branded card designs, dual validation methods (QR code generation and 6-digit PIN), automatic card renewal upon completion, and a simple local history of visits and earned rewards. Designed for a 25-65 age demographic with banking app-level simplicity, it focuses on rapid in-store usage with minimal animations, large touch targets, and clear visual feedback—replacing lost paper cards with a reliable digital wallet that merchants and customers already understand.
-- 
+
   <img width="3733" height="1434" alt="FidelityCard Screenshots" src="https://github.com/user-attachments/assets/a933c0a4-61a0-44e2-b5a9-a2f19d879854" />
   Year: 2025
 
