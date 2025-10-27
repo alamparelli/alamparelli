@@ -75,6 +75,34 @@ For now, the focus is on learning, experimenting, and growing through code. Each
 ## iOS Portfolio
 <img width="1920" height="1080" alt="Portfolio Banner" src="https://github.com/user-attachments/assets/5698bc58-b14e-431d-b7b5-73efc6330418" />
 
+### ContactHive 
+
+Year: 2025
+### Portfolio Apps
+#### [FidelityCard](https://github.com/alamparelli/FidelityCard)
+Year: 2025
+
+- [MeteoApp](https://github.com/alamparelli/MeteoApp) is an iOS weather app that answers "How should I dress today?" in under 3 seconds. Built with SwiftUI and Weather API integration, it delivers current conditions and a 24-hour hourly forecast through a distraction-free interface. The app features a minimalist design, city search with autocomplete, and essential settings (°C/°F units, day/night dynamic or manual light/dark theme). Designed to cut through the clutter of overloaded weather apps, it focuses on immediate weather consultation with smooth animations, proper loading states, and clear error handling—no ads, no excessive data, just the forecast you need right now.
+  
+  <img width="3710" height="1403" alt="MeteoApp Screenshots" src="https://github.com/user-attachments/assets/a84a1453-614a-4592-a32d-dfb35c3e0592" />
+  Year: 2025
+
+- [QuizzGame](https://github.com/alamparelli/QuizGame) is an iOS quiz app that helps trainers create engaging assessments in minutes. Built with SwiftUI and a fully offline local database, it delivers randomized multiple-choice questions with automatic scoring and instant results. The app features a modern interface with energetic orange (#FF6B35) and navy blue (#2E3A59) branding, minimal configuration options (question count, theme, sound), and a top scores leaderboard to boost engagement. Designed for quick device handoff between trainer and learners, it prioritizes speed and simplicity.
+  
+  <img width="3081" height="1377" alt="QuizzGame Screenshots - iPhone 17 Pro - 2025-10-27 at 14 22 13" src="https://github.com/user-attachments/assets/79b22080-f79b-4d7e-b545-de0cb12215dd" />
+  Year: 2025
+
+- [MyBookShelf](https://github.com/alamparelli/MyBookShelf)  is an iOS library management app that helps readers organize their personal book collection simply. Built with SwiftUI and SwiftData, it integrates the Google Books API for easy book addition, offers visual progress tracking through charts, and sends smart reading reminders. The app feature customizable sorting, and a clean design that prioritizes user experience over complexity—demonstrating a complete development cycle from specifications to TestFlight deployment.
+  
+  <img width="3684" height="1377" alt="MyBookShelf Screenshots" src="https://github.com/user-attachments/assets/dfcab72c-77f2-41eb-b962-e57496872a5c" />
+  Year: 2025
+
+
+
+
+### LearningApps
+
+Year: 2025
 
 
 ## 🎨 Hobbies & Interests
