@@ -73,11 +73,13 @@ For now, the focus is on learning, experimenting, and growing through code. Each
 
 <a name="portfolio"></a>
 ## iOS Portfolio
-<img width="1920" height="1080" alt="Portfolio Banner" src="https://github.com/user-attachments/assets/5698bc58-b14e-431d-b7b5-73efc6330418" />
+<img width="1920" height="1080" alt="Portfolio Banner" src="https://github.com/user-attachments/assets/25e88dd3-88d8-4cd4-9115-719d0a9d2fe2" />
 
 ### ContactHive 
-  - **WIP**
-  Year: 2025
+ContactHive is an iOS personal CRM that transforms contact management into meaningful relationship building. Born from a complete rewrite, this note-taking-first approach helps users maintain genuine connections by capturing important conversations, organizing contacts into groups, and keeping track of what matters in their relationships. Built with SwiftUI and focused on privacy with local-first data storage, it features automatic note-taking, smart contact linking, clean interface design following Apple's Human Interface Guidelines, and seamless sharing capabilities. Designed for people who value authentic relationships over transaction tracking, ContactHive bridges the gap between scattered notes and disconnected contacts, turning casual interactions into lasting connections through an intuitive, distraction-free experience.
+
+<img width="3733" height="1434" alt="ContactHive Screenshots" src="YOUR_SCREENSHOT_URL_HERE" />
+Year: 2025
   
 ### Portfolio Apps
 The following apps have been created to demonstrate the design, the build and delivery of an iOS application.
@@ -101,10 +103,16 @@ The following apps have been created to demonstrate the design, the build and de
   
   <img width="3684" height="1377" alt="MyBookShelf Screenshots" src="https://github.com/user-attachments/assets/dfcab72c-77f2-41eb-b962-e57496872a5c" />
   Year: 2025
+
+- [GridView Gallery] is an iOS visual curation app that helps creative professionals organize their visual references without friction. Built with SwiftUI and local-first storage (SwiftData), it features a dynamic Pinterest-style grid with variable image heights and flexible tagging system. The app includes Share Extension integration for quick image sharing from any iOS app, full-screen preview with zoom capability, real-time tag filtering, and a minimalist design. Designed for designers, photographers, and art directors (ages 25-45) who need to quickly build moodboards and retrieve inspiration, it eliminates the noise of social features and complexity of professional tools—focusing purely on visual organization, simple and elegant.
+  
+  <img width="7402" height="2788" alt="GridView Gallery Screenshots" src="https://github.com/user-attachments/assets/c131f46d-69e2-429b-a59d-ff6b6fda8db2" />
+  Year: 2025
   
 ### LearningApps
-  - These are small projects created during my learning journey of 100 Days with SwiftUI by Paul Houdson
-    <img width="4339" height="2740" alt="Projects from 100 Days of SwiftUI" src="https://github.com/user-attachments/assets/70fc4ba8-f03b-4416-a44e-e34d645702f9" />
+
+  - These are small projects created during my learning journey of 100 Days with SwiftUI by Paul Hudson
+  - <img width="1920" height="1080" alt="Projects from 100 Days of SwiftUI" src="https://github.com/user-attachments/assets/c8e046fd-b4bf-4dee-9d16-fda2c41c21a7" />
     Year: 2025
 
 
