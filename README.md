@@ -75,10 +75,10 @@ For now, the focus is on learning, experimenting, and growing through code. Each
 ## iOS Portfolio
 <img width="1920" height="1080" alt="Portfolio Banner" src="https://github.com/user-attachments/assets/25e88dd3-88d8-4cd4-9115-719d0a9d2fe2" />
 
-### ContactHive 
+### [ContactHive (Apple Store)](https://apps.apple.com/us/app/contacthive-notes-contacts/id6738789375) 
 ContactHive is an iOS personal CRM that transforms contact management into meaningful relationship building. Born from a complete rewrite, this note-taking-first approach helps users maintain genuine connections by capturing important conversations, organizing contacts into groups, and keeping track of what matters in their relationships. Built with SwiftUI and focused on privacy with local-first data storage, it features automatic note-taking, smart contact linking, clean interface design following Apple's Human Interface Guidelines, and seamless sharing capabilities. Designed for people who value authentic relationships over transaction tracking, ContactHive bridges the gap between scattered notes and disconnected contacts, turning casual interactions into lasting connections through an intuitive, distraction-free experience.
 
-<img width="3733" height="1434" alt="ContactHive Screenshots" src="YOUR_SCREENSHOT_URL_HERE" />
+<img width="7442" height="2829" alt="ContactHive Screenshots" src="https://github.com/user-attachments/assets/6fabd92f-80be-4d3c-be32-5711f8b5c247" />
 Year: 2025
   
 ### Portfolio Apps
