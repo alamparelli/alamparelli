@@ -71,12 +71,3 @@ Solo founder building privacy-first AI tools and polished Apple apps.
 ## Background
 
 Independent IT consultant turned product builder. I like software that is useful, direct, and well finished.
-
-## GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=alamparelli&theme=react&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&line_height=23&border_radius=8" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=alamparelli&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400&border_radius=8" alt="Top Languages" />
-
-</div>
