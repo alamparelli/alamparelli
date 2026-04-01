@@ -24,8 +24,15 @@ Solo founder building privacy-first AI tools and polished Apple apps.
 - **[Alf](https://alfos.ai)**  
   Privacy-first AI assistant stack focused on self-hosting, control, and practical workflows for solo founders.
 
+- **[QuickPoll.cc](https://quickpoll.cc)**  
+  AI-powered scheduling poll maker that turns a plain-language prompt into a shareable poll in seconds, with no signup required.
+
 - **[ContactHive](https://apps.apple.com/us/app/contacthive-notes-contacts/id6738789375)**  
   Personal CRM for iPhone built with SwiftUI, designed around notes, context, and real relationships instead of noisy contact management.
+
+- **[XBookmark](https://apps.apple.com/us/app/xbookmark/id6760352629?mt=12)**  
+  Private Mac app for saving X bookmarks locally, tagging them, searching them fast, and exporting them to Markdown or JSON.
+  [Chrome](https://chromewebstore.google.com/detail/xbookmark-twitter-bookmar/fmhmeljlbkjibmimlgnijjffmjgbabch) • [Firefox](https://addons.mozilla.org/fr/firefox/addon/xbookmark-manage-x-bookmarks/) • [Mac App Store](https://apps.apple.com/us/app/xbookmark/id6760352629?mt=12)
 
 ### Open Source
 
