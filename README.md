@@ -10,7 +10,7 @@ Solo founder building privacy-first AI tools and polished Apple apps.
 
 ## Now
 
-- Building **Dictato**, a voice-to-text app for macOS
+- Building **Dicta.to**, a voice-to-text app for macOS
 - Building **ALF OS**, a private, self-hosted AI assistant that runs 24/7 and connects your knowledge, apps, and data
 - Shipping **SwiftUI** products with a strong local-first and product-focused bias
 
