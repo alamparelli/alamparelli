@@ -4,7 +4,7 @@
 
 Solo founder building privacy-first AI tools and polished Apple apps.
 
-[Dictato](https://dicta.to) • [Alf](https://alfos.ai) • [ContactHive](https://apps.apple.com/us/app/contacthive-notes-contacts/id6738789375)
+[Dictato](https://dicta.to) • [Fewer](https://apps.apple.com/us/app/fewer-live-every-second/id6762262771) • [Alf](https://alfos.ai) • [ContactHive](https://apps.apple.com/us/app/contacthive-notes-contacts/id6738789375)
 
 </div>
 
@@ -20,6 +20,9 @@ Solo founder building privacy-first AI tools and polished Apple apps.
 
 - **[Dictato](https://dicta.to)**  
   Voice-to-text for macOS, built to turn speech into usable text fast without adding friction to the writing flow.
+
+- **[Fewer](https://apps.apple.com/us/app/fewer-live-every-second/id6762262771)**  
+  Stoic macOS menu bar app showing a live countdown of the seconds remaining in your life, computed from actuarial life-expectancy data. A reminder, not a forecast.
 
 - **[Alf](https://alfos.ai)**  
   Privacy-first AI assistant stack focused on self-hosting, control, and practical workflows for solo founders.
